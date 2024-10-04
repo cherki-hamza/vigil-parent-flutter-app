@@ -1,0 +1,91 @@
+name: vigil_parents_app
+description: A new Flutter project.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+   sdk: '>=3.4.4 <4.0.0'
+  #sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.11
+  http: ^0.13.3
+  cupertino_icons: ^1.0.2
+  flutter_dotenv: ^5.0.2
+  fl_chart: ^0.65.0
+  intl: ^0.17.0
+  audioplayers: ^0.20.1
+  video_player: ^2.4.2
+  video_thumbnail: ^0.5.0  # Add this line for video thumbnails
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
+    - assets/paired-devices.png
+    - assets/.env
+    - assets/gallery.json
+    - assets/homeicon.png
+    - assets/tiktok.png
+    - assets/whatsapp.png
+    - assets/youtube.png
+    - assets/arrow.png
+    - assets/profile-icon.png
+    - assets/notification.png
+    - assets/device-information.png
+    - assets/homelogo_final.png
+    - assets/whatsapp_logo.png
+    - assets/youtube_logo.png
+    - assets/discord_logo.png
+    - assets/tiktok_logo.png
+    - assets/cod_logo.png
+    - assets/instagram_logo.png
+    - assets/whiteout_survival_logo.png
+    - assets/royal_match_logo.png
+    - assets/marble_match_origin_logo.png
+    - assets/photo-1.png
+    - assets/photo-2.png
+    - assets/photo-3.png
+    - assets/photo-4.png
+    - assets/video-1.png
+    - assets/video-2.png
+    - assets/video-3.png
+    - assets/video-4.png
+    - assets/json_data/gallery.json
+
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter-Regular.ttf
+          weight: 600
+        - asset: assets/fonts/Inter-Black.ttf
+        - asset: assets/fonts/Inter-ExtraBold.ttf
+        - asset: assets/fonts/Inter-ExtraLight.ttf
+        - asset: assets/fonts/Inter-Light.ttf
+        - asset: assets/fonts/Inter-Medium.ttf
+        - asset: assets/fonts/Inter-Regular.ttf
+        - asset: assets/fonts/Inter-SemiBold.ttf
+        - asset: assets/fonts/Inter-Bold.ttf
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Black.ttf
+        - asset: assets/fonts/Roboto-Bold.ttf
+          weight: 600
+        - asset: assets/fonts/Roboto-Medium.ttf

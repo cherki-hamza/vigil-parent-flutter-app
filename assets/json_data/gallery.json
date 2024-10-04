@@ -1,0 +1,93 @@
+{
+  "photos": [
+    {
+      "imagePath": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/photo-1437419764061-2473afe69fc2.jpg",
+      "date": "2024-08-01",
+      "location": "New York, USA"
+    },
+    {
+      "imagePath": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/photo-1437422061949-f6efbde0a471.jpg",
+      "date": "2024-08-01",
+      "location": "New York, USA"
+    },
+    {
+      "imagePath": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/photo-1443890923422-7819ed4101c0.jpg",
+      "date": "2024-08-01",
+      "location": "New York, USA"
+    },
+    {
+      "imagePath": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/photo-1446329813274-7c9036bd9a1f.jpg",
+      "date": "2024-08-02",
+      "location": "Los Angeles, USA"
+    },
+    {
+      "imagePath": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/photo-1471769321038-24f4db35b24d.jpg",
+      "date": "2024-08-02",
+      "location": "Los Angeles, USA"
+    },
+    {
+      "imagePath": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/photo-1421789665209-c9b2a435e3dc.jpg",
+      "date": "2024-08-03",
+      "location": "Paris, France"
+    },
+    {
+      "imagePath": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/photo-1484882918957-e9f6567be3c8.jpg",
+      "date": "2024-08-03",
+      "location": "Paris, France"
+    },
+    {
+      "imagePath": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/photo-1431538510849-b719825bf08b.jpg",
+      "date": "2024-08-03",
+      "location": "Paris, France"
+    },
+    {
+      "imagePath": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/photo-1422360902398-0a91ff2c1a1f.jpg",
+      "date": "2024-08-07",
+      "location": "Sydney, Australia"
+    }
+  ],
+  "videos": [
+    {
+      "imagePath": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "date": "2024-08-03",
+      "location": "Paris, France",
+      "title": "Elephant Dreams"
+    },
+    {
+      "imagePath": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "date": "2024-08-04",
+      "location": "Berlin, Germany",
+      "title": "Big Buck Bunny"
+    },
+    {
+      "imagePath": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "date": "2024-08-04",
+      "location": "Berlin, Germany",
+      "title": "ForBiggerBlazes"
+    },
+    {
+      "imagePath": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "date": "2024-08-05",
+      "location": "Berlin, Germany",
+      "title": "ForBiggerBlazes"
+    },
+    {
+      "imagePath": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "date": "2024-08-05",
+      "location": "Berlin, Germany",
+      "title": "ForBiggerBlazes"
+    },
+    {
+      "imagePath": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "date": "2024-08-05",
+      "location": "Berlin, Germany",
+      "title": "ForBiggerBlazes"
+    },
+    {
+      "imagePath": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "date": "2024-08-06",
+      "location": "Berlin, Germany",
+      "title": "ForBiggerBlazes"
+    }
+  ]
+}
